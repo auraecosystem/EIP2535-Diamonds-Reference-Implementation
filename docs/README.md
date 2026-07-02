@@ -294,3 +294,5 @@
 22. [CapSign](https://capsign.com)
 23. [Symmio](https://docs.symm.io/protocol-architecture/technical-documentation/contract-docs/symmio-options-protocol-documentation/technical-architecture)
 24. [Rubic](https://rubic.exchange/)
+25. [fadaka](https://fadaka.base.eth)
+26. [kubuwallet](https://unstopable.money/)
